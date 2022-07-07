@@ -32,7 +32,7 @@
     "graphql": "^14.3.1",
     "graphql-tag": "^2.10.1",
     "graphqlhub-schemas": "^0.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "ngx-dayjs": "^1.0.1",
     "ngx-moment": "^3.4.0",
     "rxjs": "~6.4.0",
